@@ -25,16 +25,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.tutiempolibro.customermanagement.commons.Constant;
 import com.tutiempolibro.customermanagement.commons.Util;
 
-/**
- * 
- * @Author:
- * @Datecreation: 20 ago. 2019 11:42
- * @FileName: LogginAspect.java
- * @AuthorCompany: Telefonica
- * @version: 0.1
- * @Description: Clase LOGGER haciendo uso de AOP.
- */
-
 @Configuration
 @Aspect
 public class LoggingAspect {

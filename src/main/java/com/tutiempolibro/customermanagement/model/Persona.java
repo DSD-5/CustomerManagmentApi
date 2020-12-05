@@ -39,4 +39,10 @@ public class Persona {
 	
 	@Transient
 	private String password;
+	
+	@Transient
+	private Integer idsuscripcion;
+	
+	@Transient
+	private Integer shoppingid;
 }

@@ -39,4 +39,9 @@ public class Constant {
     public static final String DATE_TIME = "dd/MM/yy ' ' HH:mm:ss";
     public static final String TIME	 = "HH:mm:ss";
     
+	public static final String PLAN_FREE = "FREE";
+	public static final String PLAN_BRONCE = "BRONCE";
+	public static final String PLAN_PLATA = "PLATA";
+	public static final String PLAN_PREMIUN = "PREMIUN";
+    
 }
